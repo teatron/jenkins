@@ -1,5 +1,7 @@
 ƒл€ успешного выполнени€ данного Pipeline нам понадобитс€ учетка в DockerHub (https://hub.docker.com/) куда по итогу будет отправлен наш собраный контейнер.
 
+¬ окружении Jenkins (Jenkins-Credentials-System-Global credentials) нажимаем "Add Credentials" и там вносим свои креды от учетки в DockerHub.
+
 „то было выполено.
 
 1. ”становлен сам Jenkins.
